@@ -1,0 +1,3 @@
+Este es un proyecto de Introducción a la creación de aplicaciones móviles en Android bajo el nombre de GeoBus el cual
+busca centralizar la mayor cantidad de información de horarios de buses en Costa Rica de manera que 
+pueda ser accedida libremente para desarrollo de más app con relación a esta o cualquier interés.
